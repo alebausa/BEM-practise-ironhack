@@ -1,0 +1,19 @@
+.btn {
+  border-radius: 15px;
+  font-size: 1.4rem;
+  text-transform: capitalize;
+  padding: 1rem;
+  margin-right: 0.8rem;
+  border: none;
+  width: 50%;
+  background-color: white;
+}
+
+.btn--outlined {
+  border: 1px solid lightgray;
+}
+
+.btn--primary {
+  background-color: blue;
+  color: white;
+}
